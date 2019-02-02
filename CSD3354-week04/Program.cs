@@ -59,5 +59,12 @@ namespace CSD3354_week04
             Maple.nextVillage = Toronto;
 
         }
+        public void travel() {
+            Village currentVillage = Toronto;
+            while (!currentVillage.isAstrilde)
+            {
+                if 
+            }
+                }
     }
 }
